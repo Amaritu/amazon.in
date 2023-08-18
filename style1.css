@@ -1,0 +1,38 @@
+body {
+    text-align: centre;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    display:  inline-block;
+    border: 2px solid black;
+}
+
+#Container {
+    width:800px;
+    height:200px;
+    display: flex;
+}
+
+#box1 {
+    background-color:aqua;
+}
+
+#box2 {
+    background-color:burlywood;
+}
+
+#box3 {
+    background-color:blueviolet;
+
+}
+
+
+#box4 {
+    background-color: pink;
+}
+
+#box5 {
+    background-color: chartreuse;
+}
